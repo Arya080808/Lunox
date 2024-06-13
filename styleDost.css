@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+
+}
+
+.info {
+    margin-top: 40px;
+    background-color: #2b2b2b;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+
+
+
+.dostavka h1{
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: #e3f7ff;
+    text-underline-offset: 10px;
+    border-radius: 10px;
+    border-color: #f7a1a1;
+}
+
+.infoblock {
+    margin-top: 50px;
+    padding: 20px 40px;
+    border: 2px dashed #e3f7ff;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.proverka{
+    color: white;
+    margin-left: 90px;
+}
+
+.proverka h2{
+    text-align: left;
+    margin-top: 40px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.numord{
+    font-size: 15px;
+}
+
+.form-proverka{
+    margin-top: 10px;
+    text-align: left;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+.num{
+    margin-top: 15px;
+    width: 250px;
+    height: 30px;
+}
+
+.poisk{
+    border-radius: 7px;
+    background-color: #f7a1a1;
+    width: 60px;
+    height: 35px;
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+{"color": "черный", "price": "65000", "corpus": "Zalman N4 Rev.1", "blockpit": "500W DeepCool PF500, 80 PLUS Standart", "operativ": "16 ГБ DDR4 3200 МГц Netac Shadow II Black", "materinca": "MSI B550 GAMING GEN3", "processor": "AMD Ryzen 5 3600 3600 МГц", "videocart": "ASUS GeForce® GTX 1650 DUAL V2 4G"}

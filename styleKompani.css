@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+
+}
+
+.info {
+    margin-top: 40px;
+    background-color: #2b2b2b;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+
+
+
+.kampani h1{
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: #e3f7ff;
+    text-underline-offset: 10px;
+    border-radius: 10px;
+    border-color: #f7a1a1;
+}
+
+.infoblock {
+    margin-top: 50px;
+    padding: 20px 40px;
+    border: 2px dashed #e3f7ff;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.infoblock2 {
+    margin-top: 50px;
+    padding: 20px 40px;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.infoblock3 {
+    margin-top: 50px;
+    padding: 20px 40px;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.infoblock4 {
+    margin-top: 50px;
+    padding: 20px 40px;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.infoblock5 {
+    margin-top: 50px;
+    padding: 20px 40px;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+
+.payinfo {
+    margin-top: 40px;
+    background-color: #2b2b2b;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+
+
+
+.pay h1{
+    margin-top: 100px;
+    margin-left: 100px;
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: #e3f7ff;
+    text-underline-offset: 10px;
+    border-radius: 10px;
+    border-color: #f7a1a1;
+}
+
+.payinfoblock {
+    margin-top: 50px;
+    padding: 20px 40px;
+    border: 2px dashed #e3f7ff;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.payinfoblock2 {
+    margin-top: 50px;
+    padding: 20px 40px;
+    text-align: left;
+    margin-left: 90px;
+    margin-right: 50%;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.vstavka img{
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 1100px;
+    height: 500px;
+    display: ;
+    align-items: center;
+    justify-content: center;
+}
+
+.blockquote {
+    margin-top: 50px;
+    margin-left: 80px;
+    color: white;
+    padding-left: 20px;
+    font-style: sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.blockquote2 {
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 220px;
+    color: white;
+    padding-left: 20px;
+    border-left: 5px solid #e3f7ff;
+    font-style: italic;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 20px;
+}

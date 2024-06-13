@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    
+    background-color: black;
+}
+
+
+.info h2{
+    margin-top: 70px;
+    margin-left: 100px;
+    text-align: center;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: #e3f7ff;
+    text-underline-offset: 10px;
+    border-radius: 10px;
+    border-color: #f7a1a1;
+}
+
+.back {
+    margin-top: 40px;
+    background-color: #2b2b2b;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.config {
+    margin-top: 70px;
+    margin-left: 60px;
+    color: white;
+    padding-left: 20px;
+    font-style: sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.config h3 {
+    margin-top: 70px;
+    margin-left: 10px;
+    text-align: left;
+    color: white;
+    text-underline-offset: 10px;
+    border-radius: 10px;
+    border-color: #f7a1a1;
+}
+
+.video {
+    position: relative;
+}
+
+.video img{
+    position: absolute;
+    height: 150px;
+    width: 120px;
+}
+
+.video p {
+    margin-left: 140px;
+}
+
+.price {
+    color: white;
+    margin-left: 140px;
+}
+
+.la input {
+    height: 30px;
+    width: 450px;
+    margin-top: 10px;
+}

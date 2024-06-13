@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    
+    background-color: black;
+}
+
+.container {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.sort{
+    color: white;
+    margin-top: 20px;
+    margin-left: 80px;
+    float: left;
+    text-align: center;
+}
+
+
+.sort a {
+    margin-left: 80px;
+    width: 150px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    cursor: pointer;
+}
+
+
+
+.vstavka img{
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 1500px;
+    height: 500px;
+    display: ;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.product {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 80px;
+    width: 300px;
+    display: inline-block;
+}
+
+.product a {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.product a:hover {
+    transition: all 0.5s ease;
+    color: #87CEFA;
+}
+
+.image {
+    margin-bottom: 10px;
+}
+
+.image img {
+    width: 300px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 7px;
+}
+
+.info {
+    font-family: Georgia, serif;
+    font-size: 15px;
+    color: white;
+}
+
+.charact { 
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-left: 0;
+    color: #c2c2c2;
+}
+
+.comp h1 {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 0;
+}
+
+.comp a {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 0;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.comp a:hover {
+    transition: all 0.5s ease;
+    text-decoration-line: underline;
+    text-decoration-color: #87CEFA;
+    text-underline-offset: 10px;
+}
+
+.info h3 {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: #87CEFA;
+    margin-bottom: 0;
+}
+
+.info-price {
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    margin-top: 10px;
+    display: block;
+}
+
+.buttoncart{
+    margin-right: 50%;
+}
+
+.carte {
+    border: none;
+    border-radius: 10px;
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    background-color: #f7a1a1;
+    cursor: pointer;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.buybutton {
+    background-color: #f7a1a1;
+    border-radius: 10px;
+}
+
+.form-buy{
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+    height: 800px;
+    text-align: center;
+    background-color: #2b2b2b;
+    color: white;
+}
+
+.blockquote2 {
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 220px;
+    color: white;
+    padding-left: 20px;
+    border-left: 5px solid #e3f7ff;
+    border-right: 5px solid #e3f7ff;
+    font-style: italic;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.blockquo input {
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+    align-items: center;
+}
+
+.blockquo select {
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+}
+
+.blockquooo input {
+    height: 30px;
+    width: 450px;
+    margin-top: 10px;
+}
+
+.blockquote3 {
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 220px;
+    color: white;
+    padding-left: 20px;
+    border-left: 5px solid #e3f7ff;
+    border-right: 5px solid #e3f7ff;
+    font-style: italic;
+    line-height: 26px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.blockquote3 input{
+    height: 30px;
+    width: 150px;
+    margin-top: 10px;
+}
